@@ -1,3 +1,3 @@
 # blinkinu-website
-Blinkinu is a cryptocurrency website that was made by Isam Al-Fuqaha.
+Blinkinu is the wrolds first cryptocurrency made from a fan-base. This website was created by Isam Al-Fuqaha.
 View the website: https://blinkinu.com
