@@ -1,5 +1,5 @@
 # blinkinu-website
-Blinkinu is the wrolds first cryptocurrency made from a fan-base. This website was created by isamalf.
+Blinkinu is the wrolds first cryptocurrency made from a fan-base.
 
 website created by: https://github.com/isamalf
 
